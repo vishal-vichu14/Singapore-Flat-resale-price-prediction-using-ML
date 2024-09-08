@@ -34,3 +34,9 @@ A Jupyter notebook that contains data preprocessing tasks for the Singapore Flat
 
 ### singapur_ML.ipynb
 A Jupyter notebook that covers the machine learning part of the project. This file contains model training, evaluation, and prediction steps.
+
+## Technologies Used
+1. Machine Learning: Scikit-learn, Random Forest
+2. Data Visualization: Matplotlib, Seaborn
+3. App Interface: Streamlit for the web-based user interface
+4. Data Handling: pandas for data manipulation
